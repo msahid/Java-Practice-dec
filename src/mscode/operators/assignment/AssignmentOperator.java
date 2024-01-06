@@ -1,4 +1,4 @@
-package sytexpro.operators.assignment;
+package mscode.operators.assignment;
 
 public class AssignmentOperator {
 

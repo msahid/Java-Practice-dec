@@ -1,4 +1,4 @@
-package sytexpro.variables;
+package mscode.variables;
 
 public class VariablesType {
     public static void main(String[] args) {

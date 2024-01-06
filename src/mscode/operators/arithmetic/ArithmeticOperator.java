@@ -1,4 +1,4 @@
-package sytexpro.operators.arithmetic;
+package mscode.operators.arithmetic;
 
 public class ArithmeticOperator {
     public static void main(String[] args) {

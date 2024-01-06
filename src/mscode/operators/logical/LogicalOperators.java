@@ -1,4 +1,4 @@
-package sytexpro.operators.logical;
+package mscode.operators.logical;
 
 public class LogicalOperators {
     public static void main(String[] args) {

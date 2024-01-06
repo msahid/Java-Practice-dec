@@ -1,6 +1,4 @@
-package sytexpro.calculator;
-
-import java.util.Scanner;
+package mscode.calculator;
 
 public class Calculator2 {
     public static void main(String[] args) {

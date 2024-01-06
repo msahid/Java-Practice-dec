@@ -1,4 +1,4 @@
-package sytexpro.stringPractice;
+package mscode.stringPractice;
 
 public class StringPractice {
     public static void main(String[] args) {

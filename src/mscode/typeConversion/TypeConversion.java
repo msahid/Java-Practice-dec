@@ -1,4 +1,4 @@
-package sytexpro.typeConversion;
+package mscode.typeConversion;
 
 public class TypeConversion {
     public static void main(String[] args) {

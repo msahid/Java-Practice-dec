@@ -1,4 +1,4 @@
-package sytexpro.escapeCharacter;
+package mscode.escapeCharacter;
 
 public class EscapeCharacter {
     public static void main(String[] args) {
