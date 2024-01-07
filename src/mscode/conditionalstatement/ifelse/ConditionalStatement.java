@@ -1,4 +1,4 @@
-package mscode.conditionalstatement;
+package mscode.conditionalstatement.ifelse;
 
 import java.util.Scanner;
 
