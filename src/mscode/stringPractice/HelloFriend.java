@@ -1,4 +1,4 @@
-package mscode.stringPractice;
+package mscode.stringpractice;
 
 public class HelloFriend {
     public static void main(String[] args) {

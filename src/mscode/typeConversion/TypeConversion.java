@@ -1,4 +1,4 @@
-package mscode.typeConversion;
+package mscode.typeconversion;
 
 public class TypeConversion {
     public static void main(String[] args) {
